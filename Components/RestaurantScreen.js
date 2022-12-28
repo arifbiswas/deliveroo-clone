@@ -1,4 +1,4 @@
-import { View, Text, ScrollView, Image,SafeAreaView, TouchableOpacity } from 'react-native'
+import { View, Text, ScrollView, Image,SafeAreaView, TouchableOpacity, StatusBar } from 'react-native'
 import React, { useEffect, useLayoutEffect } from 'react'
 import { AntDesign, Entypo, Octicons,EvilIcons } from "@expo/vector-icons";
 import {useRoute , useNavigation} from '@react-navigation/native';
@@ -45,7 +45,7 @@ export default function RestaurantScreen() {
     }, []);
     // console.log(dishes);
   return (
-    <SafeAreaView className="pt-8">
+    <SafeAreaView className="">
     <BasketIcon></BasketIcon>
     <ScrollView>
       <View className="relative">
@@ -104,6 +104,7 @@ export default function RestaurantScreen() {
         }
       </View>
     </ScrollView>
+    <StatusBar></StatusBar>
     </SafeAreaView>
   )
 }
