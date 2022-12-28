@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "title": "Roast Chicken",
+        "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/dutch-oven-roast-chicken-recipe-1-1664219275.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+    },
+    {
+        "id":2,
+        "title": "Cheese",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trappista_cheese_original.jpg/1200px-Trappista_cheese_original.jpg"
+    },
+    {
+        "id":3,
+        "title": "Fried fish",
+        "imgUrl": "https://lh3.googleusercontent.com/r9I0yd-TOwZ-SjB4Ea7_RFSvLFk-tugy-GVSICMvYacnwziRid99mmiqvan5kXQS2RMksjjkkTqEPCSM2p6I=w1280-h960-c-rj-v1-e365"
+    },
+    {
+        "id":4,
+        "title": "Pizza",
+        "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg&q=60"
+    },
+    {
+        "id":5,
+        "title": "Salad",
+        "imgUrl": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Chopped-Salad-001_1.jpg"
+    },
+    {
+        "id":6,
+        "title": "Seafood",
+        "imgUrl": "https://www.licious.in/blog/wp-content/uploads/2022/02/shutterstock_1773695441-min.jpg"
+    },
+    {
+        "id":7,
+        "title": "Ice Cream",
+        "imgUrl": "https://www.foodnetwork.com/content/dam/images/food/fullset/2022/02/9/0/KC3004_katie-lee-biegel-edible-cereal-treat-bowls-for-ice-cream-sundae-2_s4x3.jpg"
+    },
+    {
+        "id":8,
+        "title": "Roast Beef",
+        "imgUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-11-Roast-Beef%2Fxtest_roast_beef-3"
+    }
+]

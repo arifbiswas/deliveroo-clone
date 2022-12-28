@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title":"Featured",
+        "description":"Paid placement from our partner"
+    },
+    {
+        "id":2,
+        "title":"Test Discounts",
+        "description":"For our regular customers"
+    },
+    {
+        "id":3,
+        "title":"Offers near you",
+        "description":"30% of you can purchase any product"
+    }
+    
+    
+]
+
